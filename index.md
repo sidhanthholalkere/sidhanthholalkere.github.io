@@ -18,3 +18,9 @@ I'm a rising junior at the [Commonwealth School](https://www.commschool.org) and
 - [Kaggle Competitions](https://www.kaggle.com/sidhanthholalkere)
     - Participating in various competitions
     - Using various ML frameworks(pytorch, keras)
+    - Gained experience with a variety of model structures, i.e., CNNs, GNNs, etc.
+
+### Courses taken:
+- Coursera deep learning specialization from deeplearning.ai
+    - learned tensorflow and keras
+    - gained knowledge of computer vision and sequence learning
