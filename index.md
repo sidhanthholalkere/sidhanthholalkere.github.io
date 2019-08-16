@@ -17,8 +17,12 @@ I'm a rising junior at the [Commonwealth School](https://www.commschool.org) and
     - Learned Keras API
 - [Kaggle Competitions](https://www.kaggle.com/sidhanthholalkere)
     - Participating in various competitions
-    - Using various ML frameworks(pytorch, keras)
+    - Used various ML frameworks(pytorch, keras)
     - Gained experience with a variety of model structures, i.e., CNNs, GNNs, etc.
+    - Currently in top 50 out of 2500 teams in the [Aptos Competition](https://www.kaggle.com/c/aptos2019-blindness-detection/)
+
+### Open source contributions:
+- [Pytorch Lightning](https://github.com/williamFalcon/pytorch-lightning)
 
 ### Courses taken:
 - Coursera deep learning specialization from deeplearning.ai
